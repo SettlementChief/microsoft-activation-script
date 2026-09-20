@@ -1,0 +1,1 @@
+// runtime — Microsoft Activation Script
