@@ -1,0 +1,1 @@
+// validator — Microsoft Activation Script
